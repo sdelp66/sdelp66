@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a programmer with experience in various programming languages and frameworks, such as C, C++, VB, Fortran IV, and Pascal. After taking a break from programming, I've recently invested my time and effort into learning new technologies like Java, JavaScript, React, Redux, Node, Express, HTML, and CSS.
+
+While my previous experience may not be directly applicable to some positions, I'm excited about the opportunity to build upon my existing skills and contribute my technical expertise to create innovative software solutions. I'm a quick learner with a strong work ethic, and I'm comfortable working independently or as part of a team to deliver high-quality work on time.
+
+
 <!--
 **sdelp66/sdelp66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
